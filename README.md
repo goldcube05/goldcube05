@@ -1,4 +1,4 @@
-print (round (3.14159,  3))
-print (round(math.pi,  5))
-print (type(2.71))
-print (type("2.71")
+print(0.1 + 0.2)
+print(0.1 + 0.3)
+print(0.1 + 0.6)
+print(0.1 + 0.7)
